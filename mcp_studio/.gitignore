@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.hf-cache/
+/data/
+/out/
+.DS_Store
+*.log
+.env*
+*.tsbuildinfo
+next-env.d.ts

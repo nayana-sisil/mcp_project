@@ -1,0 +1,1 @@
+"""MCP Studio - backend package."""
