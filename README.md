@@ -1,7 +1,7 @@
 ---
 title: MCP Studio
 emoji: "\U0001F9E9"
-colorFrom: violet
+colorFrom: purple
 colorTo: indigo
 sdk: docker
 app_port: 7860
